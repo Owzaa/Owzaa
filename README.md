@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Owzaa
 - 👀 I’m interested in : Software Engineering
-- 🌱 I’m currently learning: IBM Developer
 - 💞️ I’m looking to collaborate on: Software development and digital transformation
 - 📫 How to reach me: e-mail: olwethu.nyondo@emazweniws.com
 
