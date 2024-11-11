@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Owzaa
 - 👀 I’m interested in : Software Engineering
 - 💞️ I’m looking to collaborate on: Software development and digital transformation
-- 📫 How to reach me: e-mail: olwethu.nyondo@emazweniws.com
+- 📫 How to reach me: e-mail: nyondo.olwethu@gmail.com
 
 <!---
 Owzaa/Owzaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
